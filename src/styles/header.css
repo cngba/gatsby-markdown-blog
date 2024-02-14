@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    padding: 10px 0px;
+    border-bottom: 2px solid #8ba68f;
+    margin-bottom: 20px; 
+}
+
+.title {
+    color: black;
+    text-decoration: none;
+    margin: 0;
+}
+
+.nav a {
+    color: #073763;
+    margin: 0px 5px;
+    text-decoration: none;
+    padding: 5px 10px;
+
+}
+
+.nav a:hover {
+    background-color: #073763;
+    color: white;
+}

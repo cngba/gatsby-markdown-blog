@@ -1,0 +1,16 @@
+.list {
+    list-style: none;
+}
+
+.list li {
+    margin: 20px 0;
+    padding: 10px 0;
+    border-bottom: 2px solid blue;
+}
+.list a {
+    text-decoration: none;
+    color: blue;
+    font-weight: 400;
+    font-size: x-large;
+
+}
