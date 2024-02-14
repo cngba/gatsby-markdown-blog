@@ -1,10 +1,6 @@
 import * as React from "react"
 import Layout from "../components/layout"
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
-
 const HomePage = () => {
   
   return (
