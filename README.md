@@ -1,5 +1,6 @@
 # Gatsby Blog
 This minimal blog is built with Gatsby JS and content-fed by Markdown. 
+This is too minimal, seriously. Please consider [Gatsby Starter Blog](https://github.com/gatsbyjs/gatsby-starter-blog) for your related projects.
 
 ## Features:
 - Simple UI
